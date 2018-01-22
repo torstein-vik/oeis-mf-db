@@ -1,2 +1,2 @@
-# oeis-mf-db
-Populating multplicative function database using multiplicative OEIS sequences
+# OEIS Multiplicative Function Database
+***Multiplicative function fatabase created from OEIS data*** <p>
