@@ -59,3 +59,10 @@ This framework is and will remain completely open source, under the GNU General 
 * Database: MongoDB
 * Raw data: Online Encyclopeida of Integer Sequences
 
+## Folder structure
+
+* /project/ -- Part of SBT
+
+* /src/ -- Source directory, where code is edited.
+* /src/main/scala -- Main codebase
+* /src/test/scala -- Test for the codebase
